@@ -10,5 +10,9 @@ package daw.Jesus;
  * @author Jesus
  */
 public class Jugador {
-    
+
+    private String nombre;	// Nombre del jugador de fútbol
+    private int votos;	// Votos recibidos en la aplicación	
+    private int id;		// Número único identificativo
+
 }
